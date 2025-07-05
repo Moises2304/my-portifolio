@@ -2,8 +2,6 @@ import { Header } from "../src/components/header";
 import { Footer } from "../src/components/footer";
 import { Vidiocomopnet } from "../src/components/VidioComponent";
 import cv from "../src/assets/(Inglês).pdf"
-import cvig from "../src/assets/VC.pdf"
-
 export const Home = () => {
     return(
     <div className="relative w-full h-screen overflow-hidden">
