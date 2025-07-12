@@ -22,7 +22,7 @@ export const About = () => {
 
           <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
             <img
-              src="/src/assets/moises.enc"
+              src="/src/assets/Moises.png"
               alt="Foto de Moisés André Ngovene"
               className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-cyan-500"
             />
