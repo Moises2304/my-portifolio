@@ -1,6 +1,6 @@
 export const Footer = () => {
   return (
-    <footer className="text-gray-700 py-6 mt-10 border-t border-gray-300">
+    <footer className="text-white py-6 mt-10 border-t border-gray-300">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4">
         <p className="text-sm text-center md:text-left">
           &copy; {new Date().getFullYear()} Portfólio de Moisés André Ngovene. Todos os direitos reservados.
